@@ -1,0 +1,15 @@
+used the following commmand to get the information of the motherboard, network, storage 
+devices, and display : 
+
+1. information about motherboard : 
+	- sudo lshw -short -C system
+
+2. information about network : 
+	- sudo lshw -short -C network
+
+3. information about storage devices :
+	- sudo lshw -short -C disk
+
+4. information about display :
+	- sudo lshw -short -C display
+ 
