@@ -1,0 +1,3 @@
+command for generating the report : 
+	- sudo lshw -html > report.html
+
